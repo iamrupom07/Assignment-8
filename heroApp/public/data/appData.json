@@ -1,0 +1,218 @@
+[
+  {
+    "id": 1,
+    "title": "Forest: Focus for Productivity",
+    "companyName": "Seekrtech",
+    "image": "https://images.openai.com/thumbnails/url/A6M-K3icu5mSUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw6Oyk8v0S2zKDRPLHIs9Et0cjY3ytUtc3WuTMn3DsgpTo0qKs6LKnFMDzIOVCsGAKcGJNk", 
+    "description": "A unique app that helps you stay focused. Plant a tree when you need to focus, and it will grow while you work. If you leave the app, your tree will wither.",
+    "size": 256,
+    "reviews": 75000,
+    "ratingAvg": 4.8,
+    "downloads": 9000000,
+    "ratings": [
+      { "name": "1 star", "count": 120 },
+      { "name": "2 star", "count": 350 },
+      { "name": "3 star", "count": 1800 },
+      { "name": "4 star", "count": 15000 },
+      { "name": "5 star", "count": 57730 }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "SmPlan:ToDo List With Reminder",
+    "companyName": "Productive.io",
+    "image": "https://th.bing.com/th/id/ODL.22b53c0fc2f508c0985dd36b788064ca?w=110&h=110&c=6&rs=1&qlt=90&o=6&cb=12&dpr=1.1&pid=algoBlockDebug",
+    "description": "This focus app takes the proven Pomodoro technique and makes it even more practical for modern lifestyles. Instead of just setting a timer, it builds a complete environment for deep work, minimizing distractions and maximizing concentration.",
+    "size": 291,
+    "reviews": 54000,
+    "ratingAvg": 4.9,
+    "downloads": 8000000,
+    "ratings": [
+      { "name": "1 star", "count": 80 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 900 },
+      { "name": "4 star", "count": 6000 },
+      { "name": "5 star", "count": 46820 }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "FLIP - Focus Timer For Study",
+    "companyName": "RinaSoft",
+    "image": "https://tse2.mm.bing.net/th/id/OIP.TEiaKnAJXqNHeLHuCH1GLwHaD4?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Manage your time and tasks effectively with FLIP. Measure your focus level and achieve your goals. Perfect for students and professionals alike.",
+    "size": 150,
+    "reviews": 42000,
+    "ratingAvg": 4.7,
+    "downloads": 6500000,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 2200 },
+      { "name": "4 star", "count": 12000 },
+      { "name": "5 star", "count": 27250 }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Pomocat - Cute Pomodoro Timer",
+    "companyName": "CatDevs",
+    "image": "https://play-lh.googleusercontent.com/2-coFiL20JMqVh6mWWyn1ZpkOxn90NGYkLSvj5lxlk6yBBucC5LpcLS0G_pq3xG8owbN",
+    "description": "A delightful Pomodoro timer with a cat theme to make your work sessions more enjoyable. Stay focused and get rewards to customize your virtual cat.",
+    "size": 95,
+    "reviews": 38000,
+    "ratingAvg": 4.9,
+    "downloads": 5000000,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 150 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 5000 },
+      { "name": "5 star", "count": 32000 }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Time Planner: Schedule & Tasks",
+    "companyName": "TimeDevs",
+    "image": "https://as2.ftcdn.net/v2/jpg/05/29/35/09/1000_F_529350926_2Tyi8ZIMZzpDh9kj2sVjyGKC9pDqTJde.jpg",
+    "description": "Organize your life with Time Planner. A comprehensive tool for scheduling, task management, and goal setting. Integrated calendar and reminders keep you on track.",
+    "size": 180,
+    "reviews": 29000,
+    "ratingAvg": 4.6,
+    "downloads": 4200000,
+    "ratings": [
+      { "name": "1 star", "count": 250 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 3500 },
+      { "name": "4 star", "count": 10000 },
+      { "name": "5 star", "count": 14650 }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Morning Habits - Daily Routine",
+    "companyName": "RoutineMe",
+    "image": "https://cdn.mos.cms.futurecdn.net/jjzC9sVKYptZXDNGzYmanY-320-80.jpg",
+    "description": "Build a better morning routine with guided habits and tracking. Start your day with intention and positivity. Includes meditation, journaling, and fitness prompts.",
+    "size": 120,
+    "reviews": 25000,
+    "ratingAvg": 4.8,
+    "downloads": 3800000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 1500 },
+      { "name": "4 star", "count": 8000 },
+      { "name": "5 star", "count": 15100 }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Focus Plant: Pomodoro Forest",
+    "companyName": "Focus Labs",
+    "image": "https://tse4.mm.bing.net/th/id/OIP.9mfSE8E0eVNIHpApq6P73wHaD4?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Combine productivity with a charming gardening game. Stay focused using the Pomodoro technique to grow beautiful plants and expand your virtual garden.",
+    "size": 310,
+    "reviews": 63000,
+    "ratingAvg": 4.9,
+    "downloads": 9500000,
+    "ratings": [
+      { "name": "1 star", "count": 90 },
+      { "name": "2 star", "count": 220 },
+      { "name": "3 star", "count": 1100 },
+      { "name": "4 star", "count": 9000 },
+      { "name": "5 star", "count": 52590 }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Alarmy - Alarm Clock & Sleep",
+    "companyName": "DelightRoom",
+    "image": "https://tse2.mm.bing.net/th/id/OIP.-d-m_RcwHvoEqHslM8nTIwHaHa?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "The world's most annoying alarm clock. Force your body and mind to wake up with various missions that you must complete to turn off the alarm.",
+    "size": 205,
+    "reviews": 150000,
+    "ratingAvg": 4.7,
+    "downloads": 12000000,
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 1200 },
+      { "name": "3 star", "count": 8000 },
+      { "name": "4 star", "count": 35000 },
+      { "name": "5 star", "count": 105300 }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Todoist: To-Do List & Planner",
+    "companyName": "Doist",
+    "image": "https://is4-ssl.mzstatic.com/image/thumb/Purple116/v4/13/33/14/133314fe-1f66-d6f8-e714-7d1126ebcc61/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png",
+    "description": "Trusted by millions, Todoist is the best online to-do list and task manager. A simple, yet powerful way to organize your work and life.",
+    "size": 85,
+    "reviews": 250000,
+    "ratingAvg": 4.8,
+    "downloads": 20000000,
+    "ratings": [
+      { "name": "1 star", "count": 800 },
+      { "name": "2 star", "count": 1500 },
+      { "name": "3 star", "count": 10000 },
+      { "name": "4 star", "count": 50000 },
+      { "name": "5 star", "count": 187700 }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "TickTick: To-Do List & Calendar",
+    "companyName": "Appest",
+    "image": "https://tse4.mm.bing.net/th/id/OIP.V7Qwmqh73nCO48U8_9qwUQHaD4?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "A powerful to-do & task manager app with seamless cloud synchronization across all your devices. Whether you need to schedule an agenda, make memos, share shopping lists, or collaborate on a project, TickTick is your perfect companion.",
+    "size": 110,
+    "reviews": 95000,
+    "ratingAvg": 4.7,
+    "downloads": 7000000,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 700 },
+      { "name": "3 star", "count": 4000 },
+      { "name": "4 star", "count": 20000 },
+      { "name": "5 star", "count": 70000 }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Productive - Habit Tracker",
+    "companyName": "Apalon Apps",
+    "image": "https://tse1.mm.bing.net/th/id/OIP.q0o0a8ZJfpyOWPpwQ_aflQHaD4?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "description": "Build a routine of positive, life changing habits. An easy-to-use tool that helps you build a routine of positive, life changing habits. Set personal goals, track your progress, and motivate yourself to new heights!",
+    "size": 130,
+    "reviews": 88000,
+    "ratingAvg": 4.6,
+    "downloads": 6000000,
+    "ratings": [
+      { "name": "1 star", "count": 450 },
+      { "name": "2 star", "count": 1100 },
+      { "name": "3 star", "count": 6500 },
+      { "name": "4 star", "count": 25000 },
+      { "name": "5 star", "count": 54950 }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Notion - Notes, Docs, Tasks",
+    "companyName": "Notion Labs, Inc.",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/04/52/39/045239c9-db89-993d-4a20-2d063a627a61/AppIconProd-0-0-1x_U007emarketing-0-11-0-85-220.png/1200x630wa.png",
+    "description": "Write, plan, and get organized. Notion is the all-in-one workspace for your notes, tasks, wikis, and databases. It's the missing half of your brain.",
+    "size": 90,
+    "reviews": 180000,
+    "ratingAvg": 4.8,
+    "downloads": 15000000,
+    "ratings": [
+      { "name": "1 star", "count": 600 },
+      { "name": "2 star", "count": 1300 },
+      { "name": "3 star", "count": 9000 },
+      { "name": "4 star", "count": 40000 },
+      { "name": "5 star", "count": 129100 }
+    ]
+  }
+]
