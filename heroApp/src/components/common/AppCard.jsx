@@ -1,4 +1,3 @@
-// src/components/common/AppCard.jsx
 import { Link } from 'react-router-dom';
 import { FaDownload, FaStar } from 'react-icons/fa';
 import { formatDownloads } from '../../utils/formatters';

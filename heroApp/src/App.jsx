@@ -1,4 +1,3 @@
-// src/App.jsx
 import { Routes, Route, useLocation } from 'react-router-dom';
 import { Toaster } from 'react-hot-toast';
 import { useState, useEffect } from 'react';
@@ -6,9 +5,6 @@ import Header from './components/layout/Header';
 import Footer from './components/layout/Footer';
 import LoadingSpinner from './components/common/LoadingSpinner';
 import './index.css';
-
-
-// --- CORRECTED IMPORTS ---
 import HomePage from './components/pages/HomePage.jsx';
 import AllAppsPage from './components/pages/AllAppsPage.jsx';
 import AppDetailsPage from './components/pages/AppDetailsPage.jsx';
@@ -20,10 +16,9 @@ function App() {
     const [loading, setLoading] = useState(false);
     const location = useLocation();
 
-    // Loading animation on page navigation
     useEffect(() => {
         setLoading(true);
-        const timer = setTimeout(() => setLoading(false), 500); // Simulate loading
+        const timer = setTimeout(() => setLoading(false), 500); 
         return () => clearTimeout(timer);
     }, [location.pathname]);
 
