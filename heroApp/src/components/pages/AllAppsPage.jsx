@@ -3,6 +3,7 @@ import { useState, useEffect, useMemo } from "react";
 
 import LoadingSpinner from "../common/LoadingSpinner";
 import AppCard from "../common/AppCard";
+import { Link } from "react-router-dom";
 
 const AllAppsPage = () => {
   const [apps, setApps] = useState([]);
@@ -55,9 +56,15 @@ const AllAppsPage = () => {
       ) : (
         <div className="flex justify-center items-center flex-col">
           <img src={NotFound} alt="" />
-          <p className="text-center text-xl text-gray-500 mt-20">
-            No App Found
+          <p className="text-center text-2xl text-gray-500 mt-10">
+            App is not found
           </p>
+          <Link
+            to="/"
+            className="mt-8 bg-purple-600 text-white font-bold py-3 px-6 rounded-lg hover:bg-purple-700 transition-colors"
+          >
+            Go Back Home!
+          </Link>
         </div>
       )}
     </div>

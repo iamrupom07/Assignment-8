@@ -1,7 +1,9 @@
 import { Link } from "react-router-dom";
+import AppError from "../../photo/App-Error.png";
 
 const AppNotFoundError = () => (
   <div className="flex flex-col items-center justify-center text-center py-20 px-4">
+    <img src={AppError} alt="" />
     <h1 className="text-5xl font-bold text-gray-800">OPPS!! APP NOT FOUND</h1>
     <p className="text-gray-600 mt-4">
       The App you are requesting is not found on our system, please try another
