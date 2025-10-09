@@ -34,7 +34,7 @@ HeroApp is a modern, responsive web application designed as a showcase for produ
     ```
 2.  Navigate to the project directory:
     ```bash
-    cd HeroApp
+    cd heroApp
     ```
 3.  Install dependencies:
     ```bash
