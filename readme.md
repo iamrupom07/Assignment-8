@@ -24,3 +24,23 @@ HeroApp is a modern, responsive web application designed as a showcase for produ
 - **Charting**: [Recharts](https://recharts.org/)
 - **Notifications (Toasts)**: [React Hot Toast](https://react-hot-toast.com/)
 - **Icons**: [React Icons](https://react-icons.github.io/react-icons/)
+
+
+## 🚀 Getting Started
+
+1.  Clone the repository:
+    ```bash
+    git clone https://github.com/<your-username>/appverse.git
+    ```
+2.  Navigate to the project directory:
+    ```bash
+    cd appverse
+    ```
+3.  Install dependencies:
+    ```bash
+    npm install
+    ```
+4.  Run the development server:
+    ```bash
+    npm run dev
+    ```
